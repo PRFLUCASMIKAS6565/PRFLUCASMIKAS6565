@@ -1,0 +1,190 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <link rel="stylesheet" href="inicio.css">
+    <script src="inicio.js"></script>
+</head>
+<style>
+    body {
+        color: rgb(10, 8, 8);
+        background-image: url(OIP.jpeg);
+        background-repeat: no-repeat;
+        background-position: right top;
+        background-attachment: fixed;
+        box-shadow: 10px 7px 20px rgb(252, 8, 158);
+    }
+
+    h1 {
+
+        background-color: rgb(235, 12, 197);
+        color: rgb(245, 237, 237);
+        padding: 14px 25px;
+        text-align: center;
+        text-decoration: none;
+        display: inline-block;
+        border-width: thick;
+        border: 4px solid rgb(245, 76, 175);
+        border-radius: 12px;
+        box-shadow: 10px 7px 20px rgb(236, 33, 169);
+    }
+
+    p {
+        color: rgb(185, 2, 124);
+
+        margin: 100px;
+        font-family: 20px;
+        font-size: 20px;
+        outline: 10px solid rgb(153, 8, 98);
+        outline-offset: 10px;
+        border-radius: 12px;
+
+
+    }
+
+    a.link {
+        background-color: rgb(228, 11, 181);
+
+    }
+
+    a {
+        background-color: rgb(243, 40, 243);
+        color: rgb(12, 8, 8);
+        padding: 14px 25px;
+        text-align: center;
+        display: inline-block;
+        border: 4px solid rgb(245, 42, 218);
+        border-radius: 12px;
+        position: inherit;
+        box-shadow: 10px 7px 20px rgb(252, 8, 158);
+    }
+
+    a:hover,
+    a:active {
+        background-color: rgb(0, 0, 0);
+    }
+
+    ;
+</style>
+
+<body>
+    <ul>
+
+
+
+
+        <h1>MUSICA</h1>
+        <br>
+        <a href="segubda.html">sub paguina </a>
+    </ul>
+
+
+    <p>
+        <br>
+        BANDA 1KILO
+        <br>
+        <br>
+        Menina, me dá sua mão
+        Pense bem antes de agir
+        Se não for agora, te espero lá fora
+        Então deixe-me ir <br>
+        <br>
+        Um dia te encontro nessas suas voltas
+        Minha mente é mó confusão
+        Solta minha mão que eu sei que cê volta
+        O tempo mostra nossa direção <br>
+        <br>
+        Se eu soubesse que era assim, eu nem vinha
+        Tô bebendo champanhe e catando latinha
+        Mas tive que perder pra aprender dar valor
+        Pra você entender seu amor
+        Mas não quer ser mais minha <br>
+        <br>
+        Então diz que não me quer por perto
+        Mas diz olhando nos meus olhos
+        Desculpe se eu não fui sincero
+        Mas a vida que eu levo, erros lógicos <br>
+        <br>
+        Óbvio cada letra em rap é um código
+        Sórdido psicografado, sons sólidos, súbito
+        Nunca fui de fazer som pra público
+        Verso meu universo, peço que entenda meu mundo <br>
+        <br>
+        Mina, a gente briga por bobeira demais
+        A gente pira, o tempo vira por bobeira demais
+        O amor é bandeira de paz
+        Mas se não der vai em paz, mete o pé tô <br>
+        <br>
+
+        Vive! Quero viver, ensinar é aprender
+        Menina eu sigo com ou sem você mas tente entender
+        Eu tentei, a vida é curta pra chorar pela ex
+        Eu falei pra mim mermo enquanto eu chorava outra vez <br>
+        <br>
+        É... Eu vou ficar, mas vou pela manhã
+        Sem me despedir, vou antes do café
+        Que é pra não te acordar
+        Sei que não sou nenhum Dom Juan
+        Sou todo errado, mas tô certo que você me quer <br>
+        <br>
+        Eu vou ficar, mas vou pela manhã
+        Sem me despedir, vou antes do café
+        Que é pra não te acordar
+        Sei que não sou nenhum Dom Juan
+        Sou todo errado, mas to certo que você me quer <br>
+        <br>
+        Ei amor, sei que tá tão difícil eu falar de amor
+        Porque lá fora é tanto ódio e rancor
+        Eu preciso muito te falar <br>
+        <br>
+        Ei amor, eu tô contigo independente do caô
+        Cê sabe que aonde você for eu vou
+        Já passou da hora da gente se encontrar, e se amar <br>
+        <br>
+        Nega, cê sabe que contigo nada vai me abalar
+        A viagem é longa então faça a mala
+        Na vibe mais positiva no pique mandala <br>
+        <br>
+        Esse papo de que se tu não existisse
+        Eu te inventaria é tão clichê
+        Mas cai tão bem quando se trata de você
+        Só vem comigo cê não vai se arrepender
+        Só vem comigo cê não vai se arrepender <br>
+        <br>
+        Noites em claro
+        Tentando não me envolver
+        Seja o que Deus quiser <br>
+        <br>
+        Noites em claro
+        Tentando não me envolver
+        Seja o que Deus quiser
+        Deixe-me ir <br>
+        <br>
+        Nâo vou me despedir porque dói
+        Não vou brigar pra ficar
+        Quero estar contigo e sentir
+        Ser seu e só <br>
+        <br>
+        Sem ter que justificar o tempo em que eu sumi
+        Seja o que Deus quiser
+        Deixe-me ir <br>
+        <br>
+    </p>
+
+    <p>
+        Compositores: Daniel Knust De Barros Arruda, Christian Theme, Hariel Medella Nascimento O. Da Silva, Pedro
+        Felipe Baviera, Felipe Roque. Somente para uso não comercial.
+        Dados de: Musixmatch...
+
+    </p>
+    <a href="lucas "> CRIADOR: LUCAS MIKAS </a>
+    <br>
+    <br> <a class="link" href="https://youtu.be/TQ5DUv_ZwRg?si=rbdQGsPtRMCUtAMw">LINK </a>
+    <br>
+    <br>
+</body>
+
+</html>
